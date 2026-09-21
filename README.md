@@ -22,12 +22,11 @@ git clone https://github.com/Kaaraujo27/CalculadoraSimples.git
 
 ## 💻 Exemplo
 
-```text
 Quantos caracteres sua senha terá? 12
 Quantos caracteres especiais ela terá? 4
 
 Senha gerada: aK8@pL2#x9!Q
-```
+
 
 ## 📚 Conceitos praticados
 
