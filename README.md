@@ -18,9 +18,7 @@ A senha é gerada de forma aleatória utilizando as bibliotecas `random` e `stri
 
 Clone o repositório:
 
-```bash
-git clone (https://github.com/Kaaraujo27/CalculadoraSimples.git)
-```
+git clone https://github.com/Kaaraujo27/CalculadoraSimples.git
 
 ## 💻 Exemplo
 
