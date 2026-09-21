@@ -11,8 +11,6 @@ A senha é gerada de forma aleatória utilizando as bibliotecas `random` e `stri
 ## 🛠️ Tecnologias utilizadas
 
 * Python 3
-* `random`
-* `string`
 
 ## 🚀 Como executar
 
